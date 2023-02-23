@@ -1,7 +1,7 @@
-# Java Template
+# Java Control Flow
 
 ## Learning Objectives
-- Example learning objective
+- Use conditional statements to control the logical flow of an application
 
 ## Set up instructions
 - Fork this repository and clone the forked version to your machine
