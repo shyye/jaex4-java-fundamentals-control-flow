@@ -37,6 +37,8 @@ public class Extension extends ExtensionBase {
         The cake will need 100g of sugar per layer, if that ingredient is present in the provided list of ingredients
         and 0g if that ingredient is missing.
         The method should return the number of grams of sugar needed to make the cake.
+
+        You may need to use programming techniques we have yet to cover in the course to solve this task.
      */
 
 
