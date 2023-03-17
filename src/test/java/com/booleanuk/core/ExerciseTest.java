@@ -52,7 +52,7 @@ class ExerciseTest {
     public void answerEight() {
         Assertions.assertEquals("Correct!", this.exercise.eight(8, 8));
         Assertions.assertEquals("Correct!", this.exercise.eight(10, 8));
-        Assertions.assertEquals("Wrong!", this.exercise.eight(8, 6));
+        Assertions.assertEquals("Wrong!", this.exercise.eight(6, 8));
     }
 
     @Test
