@@ -49,13 +49,13 @@ public class Exercise {
         return "";
     }
 
-    // 3. What will the output be if I run sayGoodMorning("Hello" == "Hello")?
+    // 3. What will the output be if I run sayGoodMorning("Hello".equals("Hello"))?
     // Change the returned value in the method below to your answer. It is case-sensitive.
     public String three() {
         return "";
     }
 
-    // 4. What will the output be if I run sayGoodMorning("A word" != "Another word")
+    // 4. What will the output be if I run sayGoodMorning(!"A word".equals("Another word"))
     public String four() {
         return "";
     }
